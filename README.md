@@ -1,4 +1,4 @@
-# 📊 Superstore Executive Sales Analytics
+# 📊 Superstore Executive Sales Analytics (Individual Project)
 
 An end-to-end data analytics pipeline that transforms 2 years of raw retail transaction data (2019–2020) into an executive-level Power BI dashboard, covering data extraction, ETL cleaning with Alteryx, and interactive visualization.
 
